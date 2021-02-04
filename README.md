@@ -1,5 +1,2 @@
 # Gifs 
-Pequeña aplicación para buscar gifs sobre un tema. 
-
-Requerimientos:
-- React
+Pequeña aplicación para buscar y mostrar gifs animados realizada en React con Hooks. 
